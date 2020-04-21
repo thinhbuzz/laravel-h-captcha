@@ -65,6 +65,7 @@ file ``config/captcha.php``
 return [
     'secret' => env('CAPTCHA_SECRET', 'default_secret'),
     'sitekey' => env('CAPTCHA_SITEKEY', 'default_sitekey'),
+    // \GuzzleHttp\Client used is the default client
     'http_client' => \Buzz\LaravelHCaptcha\HttpClient::class,
     'options' => [
         'multiple' => false,
@@ -88,7 +89,7 @@ CAPTCHA_SITEKEY=[site-key]
 ## Usage
 
 ### View example
-> Get examples in [examples repo](https://github.com/thinhbuzz/laravel-h-captcha/tree/master/resources/views)
+> Get examples in [examples repo](https://github.com/thinhbuzz/laravel-h-captcha-examples/tree/master/resources/views)
 
 
 ### Display hCaptcha
