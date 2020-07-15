@@ -111,9 +111,8 @@ class Captcha
         }
         if ($isMultiple) {
             array_push($this->captchaAttributes, $attributes);
-        } else {
-            $attributes['data-sitekey'] = $this->optionOrConfig($options, 'sitekey');
         }
+        $attributes['data-sitekey'] = $this->optionOrConfig($options, 'sitekey');
 
         return $html . '<div class="h-captcha"' . $this->buildAttributes($attributes) . '></div>';
     }
