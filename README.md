@@ -1,4 +1,4 @@
-# [hCaptcha](https://www.hcaptcha.com) for Laravel 5, Laravel 6 and Laravel 7
+# [hCaptcha](https://www.hcaptcha.com) for Laravel 5, Laravel 6, Laravel 7 and Laravel 8
 
 ## Features
 
