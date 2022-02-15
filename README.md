@@ -1,6 +1,8 @@
-# [hCaptcha](https://www.hcaptcha.com) for Laravel 5, Laravel 6, Laravel 7 and Laravel 8
+# [hCaptcha](https://www.hcaptcha.com) for Laravel
 
 ## Features
+
+- [x]  Support Laravel 5/6/7/8/9
 
 - [x] Multiple captcha on page
 

@@ -1,6 +1,6 @@
 {
   "name": "buzz/laravel-h-captcha",
-  "description": "hCaptcha for Laravel 5, Laravel 6, Laravel 7 and Laravel 8",
+  "description": "hCaptcha for Laravel",
   "keywords": [
     "h-captcha",
     "hcaptcha",
@@ -10,10 +10,13 @@
     "laravel5",
     "laravel6",
     "laravel7",
+    "laravel8",
+    "laravel9",
     "laravel 5",
     "laravel 6",
     "laravel 7",
-    "laravel 8"
+    "laravel 8",
+    "laravel 9"
   ],
   "homepage": "https://github.com/thinhbuzz/laravel-h-captcha",
   "license": "MIT",
@@ -26,7 +29,7 @@
   ],
   "require": {
     "php": ">=5.4.0",
-    "illuminate/support": "5.*|6.*|7.*|8.*",
+    "illuminate/support": "5.*|6.*|7.*|8.*|9.*",
     "guzzlehttp/guzzle": "6.*|7.*"
   },
   "autoload": {
