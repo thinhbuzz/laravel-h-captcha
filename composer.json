@@ -4,21 +4,15 @@
   "keywords": [
     "h-captcha",
     "hcaptcha",
-    "h captcha",
     "captcha",
     "laravel",
-    "laravel5",
-    "laravel6",
-    "laravel7",
-    "laravel8",
-    "laravel9",
-    "laravel10",
     "laravel 5",
     "laravel 6",
     "laravel 7",
     "laravel 8",
     "laravel 9",
-    "laravel 10"
+    "laravel 10",
+    "laravel 11"
   ],
   "homepage": "https://github.com/thinhbuzz/laravel-h-captcha",
   "license": "MIT",
@@ -31,7 +25,7 @@
   ],
   "require": {
     "php": ">=5.4.0",
-    "illuminate/support": "5.*|6.*|7.*|8.*|9.*|10.*",
+    "illuminate/support": "5.*|6.*|7.*|8.*|9.*|10.*|11.*",
     "guzzlehttp/guzzle": "6.*|7.*"
   },
   "autoload": {
