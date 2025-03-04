@@ -10,8 +10,8 @@ use Illuminate\Support\Arr;
 
 class Captcha
 {
-    const VERIFY_API_ENDPOINT = 'https://hcaptcha.com/siteverify';
-    const CAPTCHA_CLIENT_API = 'https://hcaptcha.com/1/api.js';
+    const VERIFY_API_ENDPOINT = 'https://api.hcaptcha.com/siteverify';
+    const CAPTCHA_CLIENT_API = 'https://js.hcaptcha.com/1/api.js';
 
     /**
      * Name of callback function

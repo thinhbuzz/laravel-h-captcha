@@ -2,7 +2,7 @@
 
 ## Features
 
-- [x]  Support Laravel 5/6/7/8/9/10
+- [x]  Support Laravel 5/6/7/8/9/10/11/12
 
 - [x] Multiple captcha on page
 
@@ -23,7 +23,7 @@ Add the following line to the `require` section of `composer.json`:
 ```json
 {
     "require": {
-        "buzz/laravel-h-captcha": "1.*"
+        "buzz/laravel-h-captcha": "2.*"
     }
 }
 ```
